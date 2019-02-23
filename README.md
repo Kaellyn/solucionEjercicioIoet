@@ -51,4 +51,9 @@ toma en cuenta estos posibles saltos de horarios de pago y divide el horario que
 el pago con 2 o 3 horarios de pago diferentes de acuerdo a la tabla de pagos y si sus horas trabajadas caen en estos horarios de la tabla
 
 
-## Instrucciones para Ejecutar el Programa
+## Instrucciones para la Ejecucion del Programa
+
+Para ejecutar el programa podemos descargar o clonar el proyecto despues de esto desde netbeans o eclipse elejimos la opcion de de abrir proyecto luego dentro de la direccion C:\..\solucionEjercicioIoet-master\solucionEjercicioIoet-master se identificara como proyecto la 
+carpeta ejercicioIoet lo seleccionamos y podremos abrirlo y ejecutar la clase Ejecutable de la carpeta ejecutable.
+
+Otra forma es crear un proyecto java desde 0 en netbeans o eclipse y luego remplazar todo el contenido de la carpeta src del proyecto recien creado por el contenido de la carpeta src de nuestro proyecto descargado luego solo resta ejecutar la clase Ejecutable de la carpeta ejecutable.
